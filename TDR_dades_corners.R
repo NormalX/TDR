@@ -6,7 +6,7 @@
 library(worldfootballR)
 
 #-------------------------------------------------------------------------------
-# Aquesta llibreria ha deixat de funcionar des de octubre de 2023 degut a canvis 
+# Aquesta llibreria ha deixat de funcionar des de octubre de 2025 degut a canvis 
 # en la web de FBREF.com, per tanta, aquest codi ja no serveix per obtenir dades.
 #-------------------------------------------------------------------------------
 

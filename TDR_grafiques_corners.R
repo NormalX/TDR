@@ -108,7 +108,7 @@ p <- plot_distribution_of_corners (data_df,
 print (p)
 
 # Guardem el plot com a imatge PNG
-ggsave("distribucio_corners_LA_LIGA_2024_2025.jpg", plot = p, width = 10, height = 6)
+#ggsave("distribucio_corners_LA_LIGA_2024_2025.jpg", plot = p, width = 10, height = 6)
 
 
 
@@ -126,7 +126,7 @@ p <- plot_distribution_of_corners (data_df,
 print (p)
 
 # Guardem el plot com a imatge PNG
-ggsave("distribucio_corners_LIGA_F_2024_2025.jpg", plot = p, width = 10, height = 6)
+#ggsave("distribucio_corners_LIGA_F_2024_2025.jpg", plot = p, width = 10, height = 6)
 
 
 #-------------------------------------------------------------------------------
@@ -143,7 +143,7 @@ p <- plot_distribution_of_corners (data_df,
 print (p)
 
 # Guardem el plot com a imatge PNG
-ggsave("distribucio_corners_LA_LIGA_2023_2024.jpg", plot = p, width = 10, height = 6)
+#ggsave("distribucio_corners_LA_LIGA_2023_2024.jpg", plot = p, width = 10, height = 6)
 
 
 
